@@ -59,3 +59,4 @@ Fungsi untuk menampilkan harga total dan diskon.
 Pada proses ini juga akan diinfo data sudah benar atau tidak. Jika benar maka akan diberi info total harga dan/ diskon, jika data belum benar maka total harga tidak dapat ditampilkan.
 
 # Conclution
+
