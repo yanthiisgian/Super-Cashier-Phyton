@@ -7,7 +7,7 @@ class transaction:
         ''' 
         fungsi inisialisasi dictionary,
         list_order = untuk menyimpan data dictionary  
-        check_order = untuk menandai apakah data yang diinput ke dalam dictionary transaksi sudah valid. 
+        list_valid = untuk menandai apakah data yang diinput ke dalam dictionary transaksi sudah valid. 
                       nilai awal adalah True dan bisa berubah False setelah di cek validasinya lewat fungsi.
         table = untuk menyimpan table dalam bentuk data frame
         '''
