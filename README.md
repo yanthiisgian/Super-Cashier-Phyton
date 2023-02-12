@@ -5,7 +5,7 @@ Super casier ini merupakan system pembayaran metode self-service yang bertujuan 
 
 ## Requirements atau objectives
 1. Customer membuat transaksi ID.
-2. Custumer memasukkan nama, jummlah, dan harga item yang akan dibeli.
+2. Custumer memasukkan nama, jumlah, dan harga item yang akan dibeli.
 3. Customer dapat melakukan update dengan:
    - Mengubah nama item
    - Mengubah jumlah item
