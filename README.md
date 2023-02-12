@@ -12,10 +12,10 @@ Super casier ini merupakan system pembayaran metode self-service yang bertujuan 
    - Mengubah harga item
    - Atau menghapus semua orderan / reset transaksi
 4. Customer dapat menampilkan ouput pesanan, berupa nama, jumlah, harga/item, harga total, dan diskon.
-5. Dilengkapi dengna fitur pesan error jika terjadi kesalahan input data.
+5. Dilengkapi dengan fitur pesan error jika terjadi kesalahan input data.
 
 ## Flow Chart Program
-![Flowchart - Super cashier (1)_page-0001](https://user-images.githubusercontent.com/123178154/217258751-0ef29331-8c0a-4b6a-89c9-04a1a759a4cb.jpg)
+![Flowchart - Super cashier (1)](https://user-images.githubusercontent.com/123178154/218293009-3c2ff455-0847-4356-a36a-5f970b252633.png)
 
 ## Penjelasan Flow Chart
 1. Start
